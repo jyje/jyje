@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on MAXST in South Korea
 - 🌱 I’m currently learning DevSecOps/MLOps/LLMOps
 
----
-
 ## My Github Activities (powered by Codenary, in Korean)
 
 [![Github](https://www.codenary.co.kr/widget/github/api?username=jyjeon)](https://www.codenary.co.kr/user-profile/detail/jyjeon?github_ride=true&utm_source=github)
