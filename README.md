@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on MAXST in South Korea
 - 🌱 I’m currently learning DevSecOps/MLOps/LLMOps
 - 💼 My portfolio is available in [jyje.live](https://jyje.live)
-- 🚀 My live demo is available in [app.jyje.live](https://app.jyje.live)
+- 🚀 My live demo available at [app.jyje.live](https://app.jyje.live).
+    - *Note: The demo might be offline if my Raspberry Pi cluster is down.*
 
 ## My Github Activities (powered by Codenary, in Korean)
 
