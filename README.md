@@ -7,10 +7,6 @@
 - 🚀 My live demo available at [app.jyje.live](https://app.jyje.live).
     - *Note: The demo might be offline if my Raspberry Pi cluster is down.*
 
-## My Github Activities (powered by Codenary, in Korean)
-
-[![Github](https://www.codenary.co.kr/widget/github/api?username=jyjeon)](https://www.codenary.co.kr/user-profile/detail/jyjeon?github_ride=true&utm_source=github)
-
 
 <!--
 **jyje/jyje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
