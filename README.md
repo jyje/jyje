@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jyje-blue.svg?logo=linkedin)](https://www.linkedin.com/in/jyje)
+[![Publish Portfolio](https://github.com/jyje/portfolio/actions/workflows/publish-portfolio.yml/badge.svg)](https://jyje.live)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jyje)](https://artifacthub.io/packages/search?repo=jyje)
