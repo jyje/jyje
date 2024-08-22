@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jyje-blue.svg?logo=linkedin)](https://www.linkedin.com/in/jyje)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jyje)](https://artifacthub.io/packages/search?repo=jyje)
