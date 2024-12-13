@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working as an MLOps/DevOps Engineer at MAXST in South Korea
+- 🔭 I worked as a lead MLOps/DevOps Engineer at MAXST in Seoul, South Korea (2021.01-2024.11)
 - 🌱 I’m currently learning DevSecOps/LLMOps
 - 💼 My portfolio is available in [jyje.live](https://jyje.live)
 - 💬 My blog is available in [blog.jyje.live](https://blog.jyje.live)
