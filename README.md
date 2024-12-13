@@ -1,12 +1,10 @@
 ## Hi there 👋
 
 - 🔭 I worked as a lead MLOps/DevOps Engineer at MAXST in Seoul, South Korea (2021.01-2024.11)
-- 🌱 I’m currently learning DevSecOps/LLMOps
+- 🌱 I’m currently learning LLMOps/DevSecOps
 - 💼 My portfolio is available in [jyje.live](https://jyje.live)
 - 💬 My blog is available in [blog.jyje.live](https://blog.jyje.live)
-- 🚀 My live demo available at [app.jyje.live](https://app.jyje.live).
-    - *Note: The demo might be offline if my Raspberry Pi cluster is down.*
-
+- 🚀 My live demo available at [app.jyje.live](https://app.jyje.live)
 
 <!--
 **jyje/jyje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
