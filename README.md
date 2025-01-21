@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jyje-blue.svg?logo=linkedin)](https://www.linkedin.com/in/jyje)
-[![Publish Portfolio](https://github.com/jyje/portfolio/actions/workflows/publish-portfolio.yml/badge.svg)](https://jyje.live)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jyje/profile/publish-github-pages.yml?style=flat&label=Profile%20https%3A%2F%2Fjyje.live&link=https%3A%2F%2Fjyje.live)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jyje)](https://artifacthub.io/packages/search?repo=jyje)
