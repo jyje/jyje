@@ -5,7 +5,7 @@
 - ✨ Interests: Hybrid k8s + AI Platforms + ML Pipelines + DevOps Cultures
 - 💼 My portfolio is available in [jyje.online](https://jyje.online)
 - 🚀 My live demo available at [app.jyje.online](https://app.jyje.online)
-- 💬 My blog is available in [garden.jyje.online](https://garden.jyje.online)
+- 💬 My blog is available in [blog.jyje.online](https://blog.jyje.online)
 
 <!--
 **jyje/jyje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
