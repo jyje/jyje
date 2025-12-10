@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 
 ## Records
 
-[![Jyje's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyje)](https://github.com/jyje/jyje)
-
 - 🔭 I worked as a lead MLOps/DevOps Engineer at MAXST in Seoul, South Korea (2021.01-2024.11)
 - 🧑‍🔬 I studied the Computer Vision in POSTECH (2020) and Electronic Communications in kit (2012)
