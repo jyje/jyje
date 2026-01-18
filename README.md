@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm making AI/LLM agents to solve big/small problems from scratch
 - 💼 I'm working as a AI/MLOps Engineer at Hyundai Autoever in Seoul, South Korea (2025.02-)
 - 🌱 I’m currently learning **DevSecOps** and **MLOps with LLM/SLM**
-- ✨ Interests: Hybrid k8s + AI Platforms + ML Pipelines + DevOps Cultures
+- ✨ Interests: Deep Agents + AI Platforms + ML Pipelines + DevOps Cultures
 - 💼 My portfolio is available in [jyje.online](https://jyje.online)
 - 🚀 My live demo available at [app.jyje.online](https://app.jyje.online)
 - 💬 My blog is available in [blog.jyje.online](https://blog.jyje.online)
