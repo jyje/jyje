@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 ## Career Records
 - 🚀 I'm working as a AI/MLOps Engineer at Hyundai Autoever in Seoul, South Korea (2025.02-)
 - 🧑‍💻 I worked as a lead MLOps/DevOps Engineer at MAXST in Seoul, South Korea (2022-2024)
-- 🔭 I worked as an associate Computer Vision Engineer at MAXST (2021-2022)
-- 🧑‍🔬 I studied the Computer Vision in POSTECH (2020) and Electronic Communications in kit (2012)
+- 🔭 I worked as an associate Computer Vision Engineer at [MAXST](https://www.linkedin.com/company/maxst) (2021-2022)
+- 🧑‍🔬 I studied the Computer Vision in [POSTECH](https://www.linkedin.com/school/pohang-university-of-science-and-technology) (2020) and Electronic Communications in [kit](https://www.linkedin.com/school/%EA%B8%88%EC%98%A4%EA%B3%B5%EA%B3%BC%EB%8C%80%ED%95%99%EA%B5%90/) (2012)
