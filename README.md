@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jyje/profile/publish-github-pages.yml?style=flat&label=Profile)](https://jyje.online)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jyje)](https://artifacthub.io/packages/search?repo=jyje)
 
-## Records
-
-- 🔭 I worked as a lead MLOps/DevOps Engineer at MAXST in Seoul, South Korea (2021.01-2024.11)
+## Career Records
+- 🚀 I'm working as a AI/MLOps Engineer at Hyundai Autoever in Seoul, South Korea (2025.02-)
+- 🧑‍💻 I worked as a lead MLOps/DevOps Engineer at MAXST in Seoul, South Korea (2022-2024)
+- 🔭 I worked as an associate Computer Vision Engineer at MAXST (2021-2022)
 - 🧑‍🔬 I studied the Computer Vision in POSTECH (2020) and Electronic Communications in kit (2012)
